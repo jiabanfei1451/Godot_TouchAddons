@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://sqy1gdavdj6y"
-path="res://.godot/imported/touch.png-6b512d3037414c68343e04dcfc21b0f1.ctex"
+path="res://.godot/imported/touch.png-d3a617a3c0d76f5677b7104ebcec94cb.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/touch/Image/touch.png"
-dest_files=["res://.godot/imported/touch.png-6b512d3037414c68343e04dcfc21b0f1.ctex"]
+source_file="res://addons/Godot_TouchAddons/Image/touch.png"
+dest_files=["res://.godot/imported/touch.png-d3a617a3c0d76f5677b7104ebcec94cb.ctex"]
 
 [params]
 

@@ -1,7 +1,7 @@
 [gd_resource type="Theme" format=3 uid="uid://dvka2rktyelip"]
 
-[ext_resource type="StyleBox" uid="uid://ciadyrsksiodo" path="res://addons/touch/Theme/nolan.tres" id="1_0idfe"]
-[ext_resource type="StyleBox" uid="uid://c4ffe4u1spmqk" path="res://addons/touch/Theme/per.tres" id="2_4elqk"]
+[ext_resource type="StyleBox" uid="uid://ciadyrsksiodo" path="res://addons/Godot_TouchAddons/Theme/nolan.tres" id="1_0idfe"]
+[ext_resource type="StyleBox" uid="uid://c4ffe4u1spmqk" path="res://addons/Godot_TouchAddons/Theme/per.tres" id="2_4elqk"]
 
 [sub_resource type="FontFile" id="FontFile_8qt0p"]
 cache/0/variation_coordinates = {}

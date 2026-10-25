@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bvgyfyblhy6wr"
-path="res://.godot/imported/TouchBar.png-b97ba30d7c1b4d9596c2f953ce2315e3.ctex"
+path="res://.godot/imported/TouchBar.png-e2591f3f8535e5ba55a96a03c50595b7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/touch/img/TouchBar.png"
-dest_files=["res://.godot/imported/TouchBar.png-b97ba30d7c1b4d9596c2f953ce2315e3.ctex"]
+source_file="res://addons/Godot_TouchAddons/img/TouchBar.png"
+dest_files=["res://.godot/imported/TouchBar.png-e2591f3f8535e5ba55a96a03c50595b7.ctex"]
 
 [params]
 
