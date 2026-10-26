@@ -50,6 +50,7 @@ public partial class TouchButton : TouchPad
         {
             Pan = new();
             AddChild(Pan);
+            Pan.AddThemeStyleboxOverride("panel",Normal_Texture);
         }
         else
         {
